@@ -1,4 +1,4 @@
 # 100 Days Of RTL Challenge
 
-** Why This Challenge?**
+**Why This Challenge?**
 ---
