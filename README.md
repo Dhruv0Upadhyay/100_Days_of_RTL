@@ -13,5 +13,6 @@ For each day, there will be a separate folder containing the design and testbenc
 |Day No.|Code Name|Link to Library|
 |----|-----|-------| 
 |1|Half Adder|[Link](/Day1)| 
+|2| |[Link](/Day2)| 
 
 
