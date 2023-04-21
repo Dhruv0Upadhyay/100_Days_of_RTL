@@ -1,4 +1,4 @@
-<img src="100 Days of.jpg" alt="Banner" style="height: 100px;"/>
+<img src="100 Days of.jpg" alt="Banner" style="height: 100px;width: absolute"/>
 
 # 100 Days Of RTL Challenge
 I recently started learning Verilog and SystemVerilog. So, whats a better was to improve designing of circuits using these languages. This is a personal challenge where for next 100 days, Ill be practicing and posting 100 different circuits. This is challenge will enhance my concepts of _Digital Electronic Circuits & Hardware Descriptivre Languages_.
