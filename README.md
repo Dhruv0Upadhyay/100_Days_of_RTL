@@ -1,13 +1,17 @@
 [<img src="100 Days of.jpg" alt="Banner" style="height: fill;width: fill"/>](https://github.com/Dhruv0Upadhyay/100_Days_of_RTL)
 
 # [100 Days Of RTL Challenge](https://github.com/Dhruv0Upadhyay/100_Days_of_RTL)
-I recently started learning Verilog and SystemVerilog. So, whats a better was to improve designing of circuits using these languages. This is a personal challenge where for next 100 days, Ill be practicing and posting 100 different circuits. This is challenge will enhance my concepts of _Digital Electronic Circuits & Hardware Descriptivre Languages_.
-Also during the process, I'll try to share some knowlege gained and insights in forms of blogs, so do connect with me on LinkedIn or check below or check website.
+I recently started learning Verilog and SystemVerilog. So, what's better was to improve the designing of circuits using these languages. This is a personal challenge where for the next 100 days, I'll be practicing and posting 100 different circuits. This challenge will enhance my concepts of _Digital Electronic Circuits & Hardware Descriptive Languages_.
+Also during the process, I'll try to share some knowledge gained and insights in form of blogs, so do connect with me on LinkedIn.
 
- *Link to Introductory Post:* _Click Here_
+*Link to Introductory Post:* _[Click Here]()_
+
+# How To Access Repository
+For each day, there will be a separate folder containing the design and testbench followed by a Readme file giving a detail explanation of the working of the circuit.
+
 # Content Table
 |Day No.|Code Name|Link to Library|
 |----|-----|-------| 
-|1|Half Adder|Link| 
+|1|Half Adder|[Link](/Day1)| 
 
 
