@@ -3,7 +3,7 @@
 Half adder is a combinational circuit, that sums two single bit binary numbers.
 
 # Logic Circuit Diagram
-<img alt="Circuit Diagram" src="Half_Adder..jpg">
+<img alt="Circuit Diagram" src="/Half_Adder..jpg">
 
 # Truth Table 
 |Input A|Input B|Output Sum|Output Carry|
