@@ -1,8 +1,8 @@
 <h1 align="center"> Half Adder</h1>
 
-Half adder is a combinational circuit, that sums two single bit binary numbers.
-No. of inputs =2
-No. of outputs=2
+Half adder is a combinational circuit, that sums two single bit binary numbers. <br/>
+No. of inputs =2 <br/>
+No. of outputs=2 <br/>
 
 The output sum is the least 
 # Logic Circuit Diagram
