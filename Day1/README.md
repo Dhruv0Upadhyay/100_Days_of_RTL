@@ -4,7 +4,7 @@ Half adder is a combinational circuit, that sums two single bit binary numbers. 
 No. of inputs =2 <br/>
 No. of outputs=2 <br/>
 
-The output sum is the least significant bit (LSB) of the result.
+The output sum is the least significant bit (LSB) of the result.<br/>
 The output carry is the most significant bit (MSB) of the result.
 
 # Logic Circuit Diagram
