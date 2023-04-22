@@ -1,0 +1,56 @@
+$date
+Sat Apr 22 02:13:38 2023
+$end
+$version
+Riviera-PRO Version 2022.04.117.8517
+$end
+$timescale
+1 ns
+$end
+
+$scope module tb_ha $end
+$var wire 1 ! SUM $end
+$var wire 1 " CARRY $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+
+$scope module m1 $end
+$var wire 1 ! sum $end
+$var wire 1 " carry $end
+$var wire 1 % a $end
+$var wire 1 & b $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+x!
+x"
+x#
+x$
+x%
+x&
+$end
+#5
+0#
+0$
+0&
+0%
+0!
+0"
+#10
+1$
+1&
+1!
+#15
+1#
+0$
+0&
+1%
+#20
+1$
+1&
+1"
+0!
+#25
