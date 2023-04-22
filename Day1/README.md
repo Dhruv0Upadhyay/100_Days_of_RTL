@@ -1,4 +1,4 @@
-<h1 align="center"> Half Adder</h1>
+<h1 align="center"><b> Half Adder</b></h1>
 
 Half adder is a combinational circuit, that sums two single bit binary numbers. <br/>
 No. of inputs =2 <br/>
@@ -22,5 +22,5 @@ The output carry is the most significant bit (MSB) of the result.
 Sum= A XOR B ( Or can be written as A(B!)+(A!)B
 Carry = A AND B
 
-#Result Waveform
+# Result Waveform
 <img src="EP_WAVE_H_A.png" alt="Waveform" style="height: fill; width: fill"/>
