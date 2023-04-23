@@ -8,7 +8,7 @@ The output sum is xor of the inputs.<br/>
 The output cout is obtained using *"AND"* & *"OR"* gates.<br/>
 The cicuit can be implemented by only using NAND Gate, NOR Gate or by using [Half Adder](https://github.com/Dhruv0Upadhyay/100_Days_of_RTL/tree/main/Day1) and a OR Gate.
 # Logic Circuit Diagram
-<img src="FullAdder.png" alt="Circuit Diagram" style="height: 250px; width: 250px"/>
+<img src="FullAdder.png" alt="Circuit Diagram" style="height: 250px; width: 450px"/>
 
 # Truth Table 
 |Input A|Input B|Input CIN|Output Sum|Output COUT|
