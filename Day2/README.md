@@ -23,7 +23,7 @@ The cicuit can be implemented by only using NAND Gate, NOR Gate or by using [Hal
 |1|1|1|1|1|
 
 # Logical Expression
-Sum= (A XOR B) XOR C  {Or can be written as (A!)(B!)C+(A!)B(C!)+A(B!)(C!)+ABC}
+Sum= (A XOR B) XOR C  {Or can be written as (A!)(B!)C+(A!)B(C!)+A(B!)(C!)+ABC} <br/>
 COUT = AB + CIN (A XOR B) 
 
 # Result Waveform
