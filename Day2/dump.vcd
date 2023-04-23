@@ -1,0 +1,76 @@
+$date
+Sun Apr 23 11:25:48 2023
+$end
+$version
+Riviera-PRO Version 2022.04.117.8517
+$end
+$timescale
+1 ns
+$end
+
+$scope module tb_fadder $end
+$var wire 1 ! SUM $end
+$var wire 1 " COUT $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % CIN $end
+
+$scope module m1 $end
+$var wire 1 ! sum $end
+$var wire 1 " cout $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( cin $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+$end
+#5
+1%
+1(
+1!
+#10
+1$
+0%
+0(
+1'
+#15
+1%
+1(
+1"
+0!
+#20
+1#
+0$
+0%
+0(
+0'
+1&
+1!
+0"
+#25
+1%
+1(
+1"
+0!
+#30
+1$
+0%
+0(
+1'
+#35
+1%
+1(
+1!
+#40
