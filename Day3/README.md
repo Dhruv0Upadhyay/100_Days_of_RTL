@@ -19,7 +19,7 @@ Multiplexers are used in many digital circuit applications, such as in data tran
 
 # Truth Table 
 |Input 1|Input 2|Input 3|Select Line S0|Select Line S1|Output|
-|----|-----|-------|----|
+|---|---|---|----|----|---|
 |I1|0|0|0|0|I1|
 |0|I2|0|0|1|I2|
 |0|0|I3|1|0|I3|
