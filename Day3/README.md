@@ -13,7 +13,7 @@ Input lines depend on no. of select line, as no. of input line is equal to 2^m (
 Multiplexers are used in many digital circuit applications, such as in data transmission, digital communication systems, and microprocessors. They are used to selecting data from multiple sources and route it to a single destination. Multiplexers are also used in memory addressing and in the design of arithmetic and logic units (ALUs) in microprocessors. <br/>
 
 # Logic Circuit Diagram
-<img src="3x1 mux.png" alt="Circuit Diagram" style="height: 250px; width: 450px"/>
+<img src="3x1 mux.png" alt="Circuit Diagram" style="height: 250px; width: 600px"/>
 
 <p align="center"><b>Logic Diagram of 3x1 MUX</b></p>
 
