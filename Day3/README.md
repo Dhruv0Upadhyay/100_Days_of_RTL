@@ -1,7 +1,6 @@
 <h1 align="center"><b>3x1 Multiplexer</b></h1>
 
-3x1 Multiplexer actually does not exist but is a combination of two 2x1 Multiplexer.
-It is a combinational circuit 2 select lines and 3 inputs, but being a mux with 2 select line can represent maximum of 4 inputs. So, one select line remains unused or can be used for repetition of any input condition depends on the use-case. <br/>
+3x1 Multiplexer actually does not exist but is a combination of two 2x1 Multiplexers. It is a combinational circuit with 2 select lines and 3 inputs, but a mux with 2 select lines can represent a maximum of 4 inputs. So, one select line remains unused or can be used to repeat any input condition, depending on the use case. <br/>
 No. of inputs =3 <br/>
 No. of select lines=2<br/>
 No. of outputs=1 <br/>
