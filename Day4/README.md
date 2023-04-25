@@ -26,4 +26,4 @@ No. of outputs=2 <br/>
 <b> Bout </b> = Bin (A XOR B)’ + A’B {Bin((A!)B+A(B!))!+(A!)B}
 
 # Result Waveform
-<img src="EP_FS.png" alt="Waveform" style="height: fill; width: fill"/>
+<img src="EP_FSpng.png" alt="Waveform" style="height: fill; width: fill"/>
