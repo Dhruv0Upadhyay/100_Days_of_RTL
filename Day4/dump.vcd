@@ -1,0 +1,75 @@
+$date
+Tue Apr 25 18:32:24 2023
+$end
+$version
+Riviera-PRO Version 2022.04.117.8517
+$end
+$timescale
+1 ns
+$end
+
+$scope module tb_fs $end
+$var wire 1 ! D $end
+$var wire 1 " BOUT $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % BIN $end
+
+$scope module m1 $end
+$var wire 1 ! d $end
+$var wire 1 " bout $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( bin $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+$end
+#5
+1%
+1(
+1"
+1!
+#10
+1$
+0%
+0(
+1'
+#15
+1%
+1(
+0!
+#20
+1#
+0$
+0%
+0(
+0'
+1&
+1!
+0"
+#25
+1%
+1(
+0!
+#30
+1$
+0%
+0(
+1'
+#35
+1%
+1(
+1"
+1!
