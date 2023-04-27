@@ -266,6 +266,7 @@ No. of outputs=3 <br/>
 |1|1|1|1|  |1|1|0|1|  |1|0|0|
 |1|1|1|1|  |1|1|1|0|  |1|0|0|
 |1|1|1|1|  |1|1|1|1|  |0|1|0|
+
 # Logical Expression
 <b> D </b> = (A XOR B) XOR Bin {A(B!)Bin+(A!)BBin+A(B!)(Bin!)+(A!)B(Bin!)} <br/>
 
