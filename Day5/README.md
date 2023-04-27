@@ -10,7 +10,7 @@ No. of outputs=2 <br/>
 # Truth Table 
 |A0|A1|A2|A3|  |B0|B1|B2|B3|  |A>B|A=B|A<B|
 |--|--|--|--|--|--|--|--|--|--|---|---|---|
-<span style="color: red;">|0|0|0|0|  |0|0|0|0|  |0|1|0|</span>
+|<span style="color: red;">0</span>|<span style="color: red;">0</span>|<span style="color: red;">0</span>|<span style="color: red;">0</span>|  |<span style="color: red;">0</span>|<span style="color: red;">0</span>|<span style="color: red;">0</span>|<span style="color: red;">0</span>|  |<span style="color: red;">0</span>|<span style="color: red;">1</span>|<span style="color: red;">0</span>|
 |0|0|0|0|  |0|0|0|1|  |0|0|1|
 |0|0|0|0|  |0|0|1|0|  |0|0|1|
 |0|0|0|0|  |0|0|1|1|  |0|0|1|
