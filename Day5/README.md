@@ -7,9 +7,10 @@ No. of outputs=3 <br/>
 # Logic Circuit/Block Diagram
 <img src="4BC.png" alt="Block Diagram" style="height: 250px; width: 600px"/>
 <img src="4BC1.png" alt="Circuit Diagram" style="height: 250px; width: 600px"/>
+
 # Truth Table 
 |A0|A1|A2|A3|  |B0|B1|B2|B3|  |A>B|A=B|A<B|
-|--|--|--|--|--|--|--|--|--|--|---|---|---|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |0|0|0|0|  |0|0|0|0|  |0|1|0|
 |0|0|0|0|  |0|0|0|1|  |0|0|1|
 |0|0|0|0|  |0|0|1|0|  |0|0|1|
