@@ -1,0 +1,21 @@
+<h1 align="center"><b>4 Bit Comparators</b></h1>
+
+A 4-bit comparator is a circuit that compares two 4-bit binary numbers and provides output whether the numbers are equal or unequal.  It consists of 8 inputs each for two four-bit numbers and three outputs to generate less than(<), equal to(=) and greater than(>) between two binary numbers.<br/>
+No. of inputs =3 <br/>
+No. of outputs=2 <br/>
+
+# Logic Circuit Diagram
+<img src="4BC.jpg" alt="Circuit Diagram" style="height: 250px; width: 600px"/>
+
+# Truth Table 
+|A0|A1|A2|A3|  |B0|B1|B2|B3|  |A>B|A=B|A<B|
+|--|--|--|--|--|--|--|--|--|--|---|---|---|
+|0|0|0|0|  |0|0|0|1|  |0|0|1|
+
+# Logical Expression
+<b> D </b> = (A XOR B) XOR Bin {A(B!)Bin+(A!)BBin+A(B!)(Bin!)+(A!)B(Bin!)} <br/>
+
+<b> Bout </b> = Bin (A XOR B)’ + A’B {Bin((A!)B+A(B!))!+(A!)B}
+
+# Result Waveform
+<img src="EP_FSpng.png" alt="Waveform" style="height: 300px; width: fill"/>
