@@ -16,4 +16,9 @@ For each day, there will be a separate folder containing the design and testbenc
 |2|Full Adder|[Link](/Day2)| 
 |3|3x1 Multiplexer|[Link](/Day3)| 
 |4|Full Subtractor|[Link](/Day4)| 
-|5||[Link](/Day5)| 
+|5|4 Bit Comparator|[Link](/Day5)| 
+|6||[Link](/Day6)| 
+|7||[Link](/Day7)| 
+|8||[Link](/Day8)| 
+|9||[Link](/Day9)| 
+|10||[Link](/Day10)| 
