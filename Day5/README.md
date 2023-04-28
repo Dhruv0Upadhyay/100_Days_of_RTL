@@ -6,9 +6,9 @@ No. of outputs=3 <br/>
 
 # Logic Circuit/Block Diagram
 <p align="center">
-  <img src="4BC.png" alt="Block Diagram" align="center" style="height: 250%; width: 250%" />
+  <img src="4BC.png" alt="Block Diagram" align="center" style="height: 250; width: 250" />
 </p>
-<img src="4BC1.png" alt="Circuit Diagram" style="height: absolute; width: absolute"/>
+<img src="4BC1.png" alt="Circuit Diagram" style="height: 250%; width: 250%"/>
 
 # Truth Table 
 |A0|A1|A2|A3|  |B0|B1|B2|B3|  |A>B|A=B|A<B|
