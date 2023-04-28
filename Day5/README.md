@@ -6,7 +6,7 @@ No. of outputs=3 <br/>
 
 # Logic Circuit/Block Diagram
 <p align="center">
-  <img src="4BC.png" alt="Block Diagram" align="center" style="height: 250px; width: 600px" />
+  <img src="4BC.png" alt="Block Diagram" align="center" style="height: 250%; width: 250%" />
 </p>
 <img src="4BC1.png" alt="Circuit Diagram" style="height: absolute; width: absolute"/>
 
