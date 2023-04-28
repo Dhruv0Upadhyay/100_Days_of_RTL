@@ -8,7 +8,7 @@ No. of outputs=3 <br/>
 <p align="center">
   <img src="4BC.png" alt="Block Diagram" align="center" style="height: 250px; width: 600px" />
 </p>
-<img src="4BC1.png" alt="Circuit Diagram" style="height: fill; width: fill"/>
+<img src="4BC1.png" alt="Circuit Diagram" style="height: absolute; width: absolute"/>
 
 # Truth Table 
 |A0|A1|A2|A3|  |B0|B1|B2|B3|  |A>B|A=B|A<B|
