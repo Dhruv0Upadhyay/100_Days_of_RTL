@@ -5,7 +5,7 @@ No. of inputs =8 <br/>
 No. of outputs=3 <br/>
 
 # Logic Circuit/Block Diagram
-<img src="4BC.png" alt="Block Diagram" style="height: 250px; width: 600px"/>
+<img src="4BC.png" alt="Block Diagram" align="center" style="height: 250px; width: 600px" />
 <img src="4BC1.png" alt="Circuit Diagram" style="height: 250px; width: 600px"/>
 
 # Truth Table 
