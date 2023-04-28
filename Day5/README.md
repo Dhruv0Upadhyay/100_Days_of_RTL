@@ -273,6 +273,6 @@ No. of outputs=3 <br/>
 # Logical Expression
 <b>A>B </b> = A3 &(~ B3) + (A3 ~ ^B3)& A2 &(~ B2) + (A3 ~ ^B3)&(A2 ~ ^B2)&A1 &(~ B1) + (A3~ ^B3)&(A2 ~ ^B2)&(A1 ~ ^Bl)&AO &(~ B0)<br/>
 <b>A=B </b> = (A3~ ^B3) (A2~ ^B2) (A1~ ^B1)(A0~ ^B0) <br/>
-<b>A<B </b> = ~ A3 & B3 + (A3 ~ ^B3)&(~A2)&B2 + (A3 ~ ^B3)&(A2 ~ ^B2)&(~ A1)&Bl + (A3 ~ ^B3)&(A2 ~ ^B2)&(A1 ~ ^Bl)&(~ A0)&BO
+<b>A<B </b> = ~ A3 & B3 + (A3 ~ ^B3)&(~A2)&B2 + (A3 ~ ^B3)&(A2 ~ ^B2)&(~ A1)&Bl + (A3 ~ ^B3)&(A2 ~ ^B2)&(A1 ~ ^Bl)&(~ A0)&BO <br/>
 # Result Waveform
 <img src="EP_FSpng.png" alt="Waveform" style="height: 300px; width: fill"/>
