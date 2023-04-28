@@ -10,15 +10,15 @@ Also during the process, I'll try to share some knowledge gained and insights in
 For each day, there will be a separate folder containing the design and testbench followed by a Readme file giving a detail explanation of the working of the circuit.
 
 # Content Table
-|Day No.|Code Name|Link to Library|
-|----|-----|-------| 
-|1|Half Adder|[Link](/Day1)| 
-|2|Full Adder|[Link](/Day2)| 
-|3|3x1 Multiplexer|[Link](/Day3)| 
-|4|Full Subtractor|[Link](/Day4)| 
-|5|4 Bit Comparator|[Link](/Day5)| 
-|6||[Link](/Day6)| 
-|7||[Link](/Day7)| 
-|8||[Link](/Day8)| 
-|9||[Link](/Day9)| 
-|10||[Link](/Day10)| 
+|Day No.|Code Name|Link to Library|LinkedIn URL|
+|----|-----|-------|--------|
+|1|Half Adder|[Link](/Day1)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_github-dhruv0upadhyay100daysofrtl-activity-7055430036266377216-AWGm?utm_source=share&utm_medium=member_desktop)|
+|2|Full Adder|[Link](/Day2)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day1-rtldesign-activity-7055927948805050368-awoi?utm_source=share&utm_medium=member_desktop)|
+|3|3x1 Multiplexer|[Link](/Day3)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day3-rtldesign-activity-7056294106339115008-2m4k?utm_source=share&utm_medium=member_desktop)| 
+|4|Full Subtractor|[Link](/Day4)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day4-fullsubtractor-activity-7056759294993604608--ZpZ?utm_source=share&utm_medium=member_desktop)|
+|5|4 Bit Comparator|[Link](/Day5)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7057690605115617280-X02L?utm_source=share&utm_medium=member_desktop)| 
+|6||[Link](/Day6)||
+|7||[Link](/Day7)||
+|8||[Link](/Day8)||
+|9||[Link](/Day9)||
+|10||[Link](/Day10)|| 
