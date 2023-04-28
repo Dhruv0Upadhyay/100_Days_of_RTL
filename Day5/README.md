@@ -271,9 +271,8 @@ No. of outputs=3 <br/>
 |1|1|1|1|  |1|1|1|1|  |0|1|0|
 
 # Logical Expression
-<b> D </b> = (A XOR B) XOR Bin {A(B!)Bin+(A!)BBin+A(B!)(Bin!)+(A!)B(Bin!)} <br/>
-
-<b> Bout </b> = Bin (A XOR B)’ + A’B {Bin((A!)B+A(B!))!+(A!)B}
-
+<b>A>B </b> = A3 &(~B3) + (A3~^B3)& A2 &(~B2) + (A3~^B3)&(A2~^B2)&A1 &(~B1) + (A3~^B3)&(A2~^B2)&(A1~^Bl)&AO &(~B0)<br/>
+<b>A=B </b> = (A3~^B3) (A2~^B2) (A1~^B1)(A0~^B0) <br/>
+<b>A<B </b> = ~A3 & B3 + (A3~^B3)&(~A2)&B2 + (A3~^B3)&(A2~^B2)&(~A1)&Bl + (A3~^B3)&(A2~^B2)&(A1~^Bl)&(~A0)&BO
 # Result Waveform
 <img src="EP_FSpng.png" alt="Waveform" style="height: 300px; width: fill"/>
