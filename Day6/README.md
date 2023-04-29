@@ -13,5 +13,5 @@ The duty cycle of the output signal depends on the circuit implementation and th
 # Result Waveform 
 <img src="EP_CLKDIV.png" alt="Waveform" style="height: 200px; width: fill"/>
 
-# Link to EDA PLAYGROUNF
+# Link to EDA PLAYGROUND
 https://www.edaplayground.com/x/jHW_
