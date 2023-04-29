@@ -7,6 +7,6 @@ The duty cycle of the output signal depends on the circuit implementation and th
 <p>For example, in a microcontroller, different peripherals may require different clock frequencies. By using a clock divider circuit, multiple peripherals can share a common clock source while operating at different frequencies. Additionally, clock divider circuits can also be used for power management purposes by reducing the frequency of the clock signals during periods of low activity to conserve energy.</p>
 
 # Logical Implementation
-<img src="clk.png" alt="Waveform" style="height: fill; width: fill"/>
+<img src="clk.png" alt="Waveform" style="height: fill; width: absolute"/>
 # Result Waveform 
 <img src="EP_CLKDIV.png" alt="Waveform" style="height: 200px; width: fill"/>
