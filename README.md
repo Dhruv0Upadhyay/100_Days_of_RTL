@@ -17,7 +17,7 @@ For each day, there will be a separate folder containing the design and testbenc
 |3|3x1 Multiplexer|[Link](/Day3)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day3-rtldesign-activity-7056294106339115008-2m4k?utm_source=share&utm_medium=member_desktop)|| 
 |4|Full Subtractor|[Link](/Day4)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day4-fullsubtractor-activity-7056759294993604608--ZpZ?utm_source=share&utm_medium=member_desktop)||
 |5|4 Bit Comparator|[Link](/Day5)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7057690605115617280-X02L?utm_source=share&utm_medium=member_desktop)||
-|6||[Link](/Day6)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7058132047113969664-j4lH?utm_source=share&utm_medium=member_desktop)|https://www.edaplayground.com/x/jHW_|
+|6|Clock Divider|[Link](/Day6)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7058133301336711168-oVSD/?utm_source=share&utm_medium=member_desktop)|https://www.edaplayground.com/x/jHW_ |
 |7||[Link](/Day7)||
 |8||[Link](/Day8)||
 |9||[Link](/Day9)||
