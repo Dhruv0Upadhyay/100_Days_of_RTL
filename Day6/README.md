@@ -1,6 +1,6 @@
 <h1 align="center"><b>Clock Divider</b></h1>
 
-# What Is A Clock Divider?<br/>
+# What Is A Clock Divider? <br/>
 Clock divider is a circuit that produces lower frequency clock signal from input clock signal.The frequency division ratio is determined by a binary counter that counts the input clock cycles and generates an output signal every N cycles.
 The duty cycle of the output signal depends on the circuit implementation and the value of N .
 # Why Use It?
