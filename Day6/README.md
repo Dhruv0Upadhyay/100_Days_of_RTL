@@ -9,5 +9,6 @@ The duty cycle of the output signal depends on the circuit implementation and th
 
 # Logical Implementation
 <img src="clk.png" alt="Waveform" style="height: fill; width: fill"/>
+
 # Result Waveform 
 <img src="EP_CLKDIV.png" alt="Waveform" style="height: 200px; width: fill"/>
