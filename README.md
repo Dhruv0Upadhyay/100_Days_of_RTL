@@ -6,6 +6,30 @@ Recently began learning RTL designing using Verilog & SystemVerilog.So, I took u
 Also, will share my learning in the form of blogs, and also need support from you to questions and raise doubts by commenting on the LinkedIn post.
 The link to recent blogs will be available in bottom section.
 
+<i>Social buttons</i>
+
+<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Dhruv0Upadhyay&message=100_Days_of_RTL&color=blue&logo=github" alt="Dhruv0Upadhyay - 100_Days_of_RTL"></a>
+<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/stars/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="stars - 100_Days_of_RTL"></a>
+<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/forks/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="forks - 100_Days_of_RTL"></a>
+
+<i>Repo metadata</i>
+
+<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL/releases/"><img src="https://img.shields.io/github/tag/Dhruv0Upadhyay/100_Days_of_RTL?include_prereleases=&sort=semver&color=blue" alt="GitHub tag"></a>
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL/issues"><img src="https://img.shields.io/github/issues/Dhruv0Upadhyay/100_Days_of_RTL" alt="issues - 100_Days_of_RTL"></a>
+
+<i>Call-to-Action buttons</i>
+
+<div align="center">
+</div>
+<h2>Documentation</h2>
+<div align="center">
+<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
+
+</div>
+<h2>License</h2>
+Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/Dhruv0Upadhyay">@Dhruv0Upadhyay</a>.
+
 *Link to Introductory Post:* _[Click Here](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day1-rtldesign-activity-7055428686447001600-78Ck?utm_source=share&utm_medium=member_desktop)_
 
 # How To Access Repository
