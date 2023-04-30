@@ -22,5 +22,8 @@ The output carry is the most significant bit (MSB) of the result.
 Sum= A XOR B ( Or can be written as A(B!)+(A!)B
 Carry = A AND B
 
+# Play with Code
+(https://www.edaplayground.com/x/PVg3)
+
 # Result Waveform
 <img src="EP_WAVE_H_A.png" alt="Waveform" style="height: fill; width: fill"/>
