@@ -13,18 +13,7 @@ The link to recent blogs will be available in bottom section.
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/forks/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="forks - 100_Days_of_RTL"></a>
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Days Completed&message=06&color=blue" alt="Days Completed - 06"></a>
 [![HDL - Verilog](https://img.shields.io/badge/HDL-Verilog-2ea44f)]
-
-<i>Call-to-Action buttons</i>
-
-<div align="center">
-</div>
-<h2>Documentation</h2>
-<div align="center">
-<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
-
-</div>
-<h2>License</h2>
-Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/Dhruv0Upadhyay">@Dhruv0Upadhyay</a>.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-upadhyay-/)
 
 *Link to Introductory Post:* _[Click Here](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day1-rtldesign-activity-7055428686447001600-78Ck?utm_source=share&utm_medium=member_desktop)_
 
