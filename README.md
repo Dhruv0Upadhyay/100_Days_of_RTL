@@ -6,8 +6,6 @@ Recently began learning RTL designing using Verilog & SystemVerilog.So, I took u
 Also, will share my learning in the form of blogs, and also need support from you to questions and raise doubts by commenting on the LinkedIn post.
 The link to recent blogs will be available in bottom section.
 
-<i>Social buttons</i>
-
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Dhruv0Upadhyay&message=100DaysOfRTL&color=green&logo=github" alt="Dhruv0Upadhyay - 100_Days_of_RTL"></a>
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/stars/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="stars - 100_Days_of_RTL"></a>
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/forks/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="forks - 100_Days_of_RTL"></a>
@@ -34,3 +32,8 @@ For each day, there will be a separate folder containing the design and testbenc
 |8||[Link](/Day8)||
 |9||[Link](/Day9)||
 |10||[Link](/Day10)|| 
+
+# Connect With Me 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/dhruv-upadhyay-/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://ds87702.medium.com/)
