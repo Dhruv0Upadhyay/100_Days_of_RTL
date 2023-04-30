@@ -14,7 +14,7 @@ The link to recent blogs will be available in bottom section.
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Days Completed&message=06&color=blue" alt="Days Completed - 06"></a>
 [![HDL - Verilog](https://img.shields.io/badge/HDL-Verilog-2ea44f)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-upadhyay-/)
-[![Simulator - Eda Playground](https://img.shields.io/badge/Simulator-Eda_Playground-cyan)](https://www.edaplayground.com/playgrounds/user/459065)
+[![Simulator - Eda Playground](https://img.shields.io/badge/Simulator-Eda_Playground-darkblue)](https://www.edaplayground.com/playgrounds/user/459065)
 
 *Link to Introductory Post:* _[Click Here](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day1-rtldesign-activity-7055428686447001600-78Ck?utm_source=share&utm_medium=member_desktop)_
 
