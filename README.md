@@ -12,7 +12,7 @@ The link to recent blogs will be available in bottom section.
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/stars/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="stars - 100_Days_of_RTL"></a>
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/forks/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="forks - 100_Days_of_RTL"></a>
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Days Completed&message=06&color=blue" alt="Days Completed - 06"></a>
-[![HDL - Verilog](https://img.shields.io/badge/HDL-Verilog-2ea44f)
+[![HDL - Verilog](https://img.shields.io/badge/HDL-Verilog-2ea44f)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-upadhyay-/)
 
 *Link to Introductory Post:* _[Click Here](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day1-rtldesign-activity-7055428686447001600-78Ck?utm_source=share&utm_medium=member_desktop)_
