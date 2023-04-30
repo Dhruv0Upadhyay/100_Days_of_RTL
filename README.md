@@ -8,10 +8,10 @@ The link to recent blogs will be available in bottom section.
 
 <i>Social buttons</i>
 
-<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Dhruv0Upadhyay&message=100_Days_of_RTL&color=blue&logo=github" alt="Dhruv0Upadhyay - 100_Days_of_RTL"></a>
+<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Dhruv0Upadhyay&message=06&color=green&logo=github" alt="Dhruv0Upadhyay - 100_Days_of_RTL"></a>
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/stars/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="stars - 100_Days_of_RTL"></a>
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL"><img src="https://img.shields.io/github/forks/Dhruv0Upadhyay/100_Days_of_RTL?style=social" alt="forks - 100_Days_of_RTL"></a>
-
+<a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Dhruv0Upadhyay&message=100_Days_of_RTL&color=blue&logo=github" alt="Dhruv0Upadhyay - 05"></a>
 <i>Repo metadata</i>
 
 <a href="https://github.com/Dhruv0Upadhyay/100_Days_of_RTL/releases/"><img src="https://img.shields.io/github/tag/Dhruv0Upadhyay/100_Days_of_RTL?include_prereleases=&sort=semver&color=blue" alt="GitHub tag"></a>
