@@ -1,7 +1,7 @@
 [<img src="100 Days of.jpg" alt="Banner" style="height: fill;width: fill"/>](https://github.com/Dhruv0Upadhyay/100_Days_of_RTL)
 
 # [100 Days Of RTL Challenge](https://github.com/Dhruv0Upadhyay/100_Days_of_RTL)
-<b>"Practice makes a man perfect"</b>
+## <b>"Practice makes a man perfect"</b>
 
 Recently began learning RTL designing using Verilog & SystemVerilog.So, I took up a personal challenge to produce an RTL design daily and share it with you because knowledge increases by sharing. During the challenge, I am setting a target to produce 100 designs in the next 100 days which will in turn help me improve my domains of Digital Electronics Circuit and Hardware Description & Verification Language.
 
