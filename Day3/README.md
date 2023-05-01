@@ -24,5 +24,8 @@ Multiplexers are used in many digital circuit applications, such as in data tran
 |0|0|I3|1|0|I3|
 |x|x|x|1|1|x|
 
+# EDAPLAYGROUND
+[PLAY](https://www.edaplayground.com/x/AXTx)
+
 # Result Waveform
 <img src="EP_WAVE_31_MUX.png" alt="Waveform" style="height: fill; width: fill"/>
