@@ -5,7 +5,7 @@ Priority encoder overcomes the limitations of basic encoder that is they have a 
 No. of outputs=3 <br/>
 
 # Logic Circuit/Block Diagram
-<img src="bpc.png" alt="Block Diagram" align="center" style="height: 350px; width: 500px" />
+<img src="bpc.png" alt="Block Diagram" align="center" style="height: 250px; width: 400px" />
 <img src="pc.jpg" alt="Circuit Diagram" align="center" style="height: 350px; width: 500px" />
 
 # Truth Table 
