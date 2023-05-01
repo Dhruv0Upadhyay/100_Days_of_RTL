@@ -1,6 +1,6 @@
 <h1 align="center"><b>4 TO 2 Priority Encoder</b></h1>
 
-Priority encoder overcomes the limitations of basic encoder that is they have a output defined when all the inputs are zero and also they dont show error when more than input as they check the priority of the input to determine the output sequence.
+Priority encoder overcomes the limitations of primary encoder that is they have an output defined when all the inputs are zero. Also, they don't show an error when more than one input as they check the priority of the input to determine the output sequence.
 <br/>No. of inputs =4 <br/>
 No. of outputs=3 <br/>
 
