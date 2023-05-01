@@ -6,7 +6,7 @@ No. of outputs=4 <br/>
 The circuit will show error if the more than 2 inputs are high and also if all the inputs are low.
 
 # Logic Circuit/Block Diagram
-<img src="EncDBCD.jpg" alt="Block Diagram" align="center" style="height: 350px; width: 500px" />
+<img src="Encdbcd.jpg" alt="Block Diagram" align="center" style="height: 350px; width: 500px" />
 
 # Truth Table 
 |D0|D1|D2|D3|D4|D5|D6|D7|D8|D9|  |A|B|C|D|
@@ -32,5 +32,5 @@ D= D1+D3+D5+D7+D9<br/>
 [PLAY](https://www.edaplayground.com/x/RbCK)
 
 # Result Waveform 
-<img src="EP_WAVE_DBCD.png" alt="Waveform" style="height: 200px; width: fill"/>
+<img src="EP_WAVE_DBCD.png" alt="Waveform" style="height: 200px; width:fill"/>
 
