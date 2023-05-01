@@ -22,8 +22,10 @@ No. of outputs=2 <br/>
 
 # Logical Expression
 <b> D </b> = (A XOR B) XOR Bin {A(B!)Bin+(A!)BBin+A(B!)(Bin!)+(A!)B(Bin!)} <br/>
-
 <b> Bout </b> = Bin (A XOR B)’ + A’B {Bin((A!)B+A(B!))!+(A!)B}
+
+# EDA PLAYGROUND
+[PLAY](https://www.edaplayground.com/x/Jd9j)
 
 # Result Waveform
 <img src="EP_FSpng.png" alt="Waveform" style="height: 300px; width: fill"/>
