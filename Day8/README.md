@@ -1,6 +1,6 @@
 <h1 align="center"><b>Decimal to BCD(Binary Coded Decimal) Encoder</b></h1>
 
-Decimal to BCD encoder is a cicuit that has 10 inputs and 4 outputs. The output is only generated when one and only one input is high. The encoder detects which input is active and produces a binary code on the output lines that represents the active input.<br/>
+Decimal to BCD encoder is a digital circuit that converts a decimal number to its binary-coded decimal (BCD) equivalent. BCD is a binary encoding of decimal numbers where each decimal digit is represented by its binary equivalent. The Decimal to BCD encoder is a combinational circuit that takes a decimal input and generates a four-bit BCD output. This circuit is widely used in digital systems that require decimal arithmetic, such as calculators, clocks, and displays. The Decimal to BCD encoder can be implemented using various logic gates, such as AND, OR, and XOR gates, or using multiplexers. The circuit is easy to implement and requires fewer components, making it a popular choice for digital designers. By converting decimal numbers to BCD, the Decimal to BCD encoder enables digital systems to perform arithmetic operations, display numerical data, and perform other operations that require decimal representation.<br/>
 No. of inputs =10 <br/>
 No. of outputs=4 <br/>
 The circuit will show error if the more than 2 inputs are high and also if all the inputs are low.
