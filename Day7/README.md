@@ -7,9 +7,9 @@ The circuit will show error if the more than 2 inputs are high and also if all t
 
 # Logic Circuit/Block Diagram
 <p align="center">
-  <img src="4BC.png" alt="Encoder-83.jpg" align="center" style="height: 350px; width: 500px" />
+  <img src="Encoder-83.jpg" alt="Block Diagram" align="center" style="height: 350px; width: 500px" />
 </p>
-<img src="4BC1.png" alt="Encblk.png" style="height: 250%; width: 250%"/>
+<img src="Encblk.png" alt="Circuit" style="height: 250%; width: 250%"/>
 
 # Truth Table 
 |D1|D2|D3|D4|D5|D6|D7|D8|  |O1|O2|O3|
