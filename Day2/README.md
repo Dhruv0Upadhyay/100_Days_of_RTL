@@ -26,5 +26,8 @@ The cicuit can be implemented by only using NAND Gate, NOR Gate or by using [Hal
 Sum= (A XOR B) XOR C  {Or can be written as (A!)(B!)C+(A!)B(C!)+A(B!)(C!)+ABC} <br/>
 COUT = AB + CIN (A XOR B) 
 
+# EDA PLAYGROUND
+[PLAY](https://www.edaplayground.com/x/9zgZ)
+
 # Result Waveform
 <img src="EP_WAVE_F_A.png" alt="Waveform" style="height: fill; width: fill"/>
