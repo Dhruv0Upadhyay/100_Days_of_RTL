@@ -33,7 +33,7 @@ For each day, there will be a separate folder containing the design and testbenc
 |5|4 Bit Comparator|[Link](/Day5)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7057690605115617280-X02L?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/Hmnb)|
 |6|Clock Divider|[Link](/Day6)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7058133301336711168-oVSD/?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/jHW_)|
 |7|8-3 Encoder|[Link](/Day7)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058714841640841216-R-Tt?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/cV_H)|
-|8|Decimal to BCD Encoder|[Link](/Day8)||
+|8|Decimal to BCD Encoder|[Link](/Day8)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058887800749780993-_kUv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/RbCK)|
 |9|Priority Encoder|[Link](/Day9)||
 |10||[Link](/Day10)|| 
 
