@@ -36,9 +36,9 @@ For each day, there will be a separate folder containing the design and testbenc
 |8|Decimal to BCD Encoder|[Link](/Day8)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058887800749780993-_kUv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/RbCK)|
 |9|Priority Encoder|[Link](/Day9)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058937570663034880-dBlv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/ZGFb)|
 |10|Serial-In Serial-Out Shift Register|[Link](/Day10)||| 
-|11||[Link](/Day11)||| 
-|12||[Link](/Day12)|||
-|13||[Link](/Day13)|||
+|11|Serial-In Parallel-Out|[Link](/Day11)||| 
+|12|Parallel-In Serial-Out|[Link](/Day12)|||
+|13|Parallel-In Parallel-Out|[Link](/Day13)|||
 |14||[Link](/Day14)||| 
 |15||[Link](/Day15)||| 
 
