@@ -26,19 +26,19 @@ For each day, there will be a separate folder containing the design and testbenc
 # Content Table
 |Day No.|Code Name|Link to Library|LinkedIn URL|EDA Playground Link|
 |----|-----|-------|--------|----|
-|1|Half Adder|[Link](/Day1)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_github-dhruv0upadhyay100daysofrtl-activity-7055430036266377216-AWGm?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/PVg3)|
-|2|Full Adder|[Link](/Day2)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day1-rtldesign-activity-7055927948805050368-awoi?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/9zgZ)|
-|3|3x1 Multiplexer|[Link](/Day3)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day3-rtldesign-activity-7056294106339115008-2m4k?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/AXTx)| 
-|4|Full Subtractor|[Link](/Day4)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day4-fullsubtractor-activity-7056759294993604608--ZpZ?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/Jd9j)|
-|5|4 Bit Comparator|[Link](/Day5)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7057690605115617280-X02L?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/Hmnb)|
-|6|Clock Divider|[Link](/Day6)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7058133301336711168-oVSD/?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/jHW_)|
-|7|8-3 Encoder|[Link](/Day7)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058714841640841216-R-Tt?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/cV_H)|
-|8|Decimal to BCD Encoder|[Link](/Day8)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058887800749780993-_kUv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/RbCK)|
-|9|Priority Encoder|[Link](/Day9)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058937570663034880-dBlv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/ZGFb)|
-|10|Serial-In Serial-Out Shift Register|[Link](/Day10)||| 
-|11|Serial-In Parallel-Out|[Link](/Day11)||| 
-|12|Parallel-In Serial-Out|[Link](/Day12)|||
-|13|Parallel-In Parallel-Out|[Link](/Day13)|||
-|14||[Link](/Day14)||| 
+|001|Half Adder|[Link](/Day001)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_github-dhruv0upadhyay100daysofrtl-activity-7055430036266377216-AWGm?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/PVg3)|
+|002|Full Adder|[Link](/Day002)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day1-rtldesign-activity-7055927948805050368-awoi?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/9zgZ)|
+|003|3x1 Multiplexer|[Link](/Day003)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day3-rtldesign-activity-7056294106339115008-2m4k?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/AXTx)| 
+|004|Full Subtractor|[Link](/Day004)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day4-fullsubtractor-activity-7056759294993604608--ZpZ?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/Jd9j)|
+|005|4 Bit Comparator|[Link](/Day005)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7057690605115617280-X02L?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/Hmnb)|
+|006|Clock Divider|[Link](/Day006)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day5-comparator-activity-7058133301336711168-oVSD/?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/jHW_)|
+|007|8-3 Encoder|[Link](/Day007)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058714841640841216-R-Tt?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/cV_H)|
+|008|Decimal to BCD Encoder|[Link](/Day008)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058887800749780993-_kUv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/RbCK)|
+|009|Priority Encoder|[Link](/Day009)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058937570663034880-dBlv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/ZGFb)|
+|010|Serial-In Serial-Out Shift Register|[Link](/Day010)||| 
+|011|Serial-In Parallel-Out|[Link](/Day011)||| 
+|012|Parallel-In Serial-Out|[Link](/Day012)|||
+|013|Parallel-In Parallel-Out|[Link](/Day013)|||
+|014||[Link](/Day014)||| 
 |15||[Link](/Day15)||| 
 
