@@ -35,10 +35,10 @@ For each day, there will be a separate folder containing the design and testbenc
 |007|8-3 Encoder|[Link](/Day007)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058714841640841216-R-Tt?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/cV_H)|
 |008|Decimal to BCD Encoder|[Link](/Day008)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058887800749780993-_kUv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/RbCK)|
 |009|Priority Encoder|[Link](/Day009)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058937570663034880-dBlv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/ZGFb)|
-|010|Serial-In Serial-Out Shift Register|[Link](/Day010)||| 
-|011|Serial-In Parallel-Out|[Link](/Day011)||| 
-|012|Parallel-In Serial-Out|[Link](/Day012)|||
-|013|Parallel-In Parallel-Out|[Link](/Day013)|||
+|010|Barrel Shifter|[Link](/Day010)||| 
+|011||[Link](/Day011)||| 
+|012||[Link](/Day012)|||
+|013|[Link](/Day013)|||
 |014||[Link](/Day014)||| 
 |15||[Link](/Day15)||| 
 
