@@ -35,7 +35,7 @@ For each day, there will be a separate folder containing the design and testbenc
 |007|8-3 Encoder|[Link](/Day007)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058714841640841216-R-Tt?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/cV_H)|
 |008|Decimal to BCD Encoder|[Link](/Day008)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058887800749780993-_kUv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/RbCK)|
 |009|Priority Encoder|[Link](/Day009)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7058937570663034880-dBlv?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/ZGFb)|
-|010|Barrel Shifter for 8bit data using 2 to 1 MUX|[Link](/Day010)||| 
+|010|Barrel Shifter for 8bit data using 2to1 MUX|[Link](/Day010)||| 
 |011||[Link](/Day011)||| 
 |012||[Link](/Day012)|||
 |013||[Link](/Day013)|||
