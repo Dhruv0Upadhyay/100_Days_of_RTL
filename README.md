@@ -38,7 +38,7 @@ For each day, there will be a separate folder containing the design and testbenc
 |010|Barrel Shifter|[Link](/Day010)||| 
 |011||[Link](/Day011)||| 
 |012||[Link](/Day012)|||
-|013|[Link](/Day013)|||
+|013||[Link](/Day013)|||
 |014||[Link](/Day014)||| 
 |15||[Link](/Day15)||| 
 
