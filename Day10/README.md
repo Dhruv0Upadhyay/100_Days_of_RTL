@@ -1,1 +1,1 @@
-<h1 align="center"><b>Serial-In Serial-Out Shift Register</b></h1>
+<h1 align="center"><b>Barrel Shifter</b></h1>
