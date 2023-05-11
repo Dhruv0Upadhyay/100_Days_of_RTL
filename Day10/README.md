@@ -1,4 +1,4 @@
-<h1 align="center"><b>Barrel Shifter For 8bit data using 2To1 MUX</b></h1>
+<h1 align="center"><b>Barrel Shifter For 8-bit data</b></h1>
 
 # Truth Table 
 |SelLineS2|P0|P1|P2|P3|P4|P5|P6|P7|SelLineS1|Q0|Q1|Q2|Q3|Q4|Q5|Q6|Q7|SelLineS0|OutY7|OutY6|OutY5|OutY4|OutY3|OutY2|OutY1|OutY0|Operation|
