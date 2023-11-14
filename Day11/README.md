@@ -21,9 +21,9 @@ The circuit has increased propagation time and are extremely slow.
 
 
 # EDAPLAYGROUND LINK
-[PLAY](https://www.edaplayground.com/x/ZUKK)
+[PLAY](https://edaplayground.com/x/NTFS)
 
 # Result Waveform 
-<img src="EP_WAVE_BS.png" alt="Waveform" style="height: 200px; width:fill"/>
+<img src="EP_WAVE_RP_CARRY_ADDER.png" alt="Waveform" style="height: 200px; width:fill"/>
 
 
