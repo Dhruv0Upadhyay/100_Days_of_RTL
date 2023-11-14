@@ -8,7 +8,7 @@ The circuit has increased propagation time and are extremely slow.
 <img src="BLOCK.jpg" alt="Block Diagram" align="center" style="height: 250px; width: 400px" />
 
 # Truth Table 
-||A0|B0|Cin|S0|  |C0|A1|B1|S1|  |C1|A2|B2|S2|  |C2|A3|B3|S3|  |C3|
+|A0|B0|Cin|S0|  |C0|A1|B1|S1|  |C1|A2|B2|S2|  |C2|A3|B3|S3|  |C3|
 |-------- |--|--|--|--|--|--|--|--|---------|--|--|--|--|--|--|--|--|---------|------|------|------|------|-------|------|------|------|---|
 |0|A0|A1|A2|A3|A4|A5|A6|A7|0|A0|A1|A2|A3|A4|A5|A6|A7|0|A7|A6|A5|A4|A3|A2|A1|A0|No Operation Done|
 |0|A0|A1|A2|A3|A4|A5|A6|A7|0|A0|A1|A2|A3|A4|A5|A6|A7|1|A0|A7|A6|A5|A4|A3|A2|A1|Right Shift by 1|
