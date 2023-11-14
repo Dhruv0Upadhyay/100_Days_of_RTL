@@ -1,6 +1,7 @@
-+++
-title = "Menu button"
-+++
+<meta name="keywords" content="Verilog, System Verilog, 100Days of RTL, UVM, Testbench,Constraints, Circuits, Digital Electronics">
+<meta name="description" content="RTL designing for various Digital Circuits to enhance the ability to code in Verilog, System Verilog using UVM">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 [<img src="100 Days of.jpg" alt="Banner" style="height: fill;width: fill"/>](https://github.com/Dhruv0Upadhyay/100_Days_of_RTL)
 
 # [100 Days Of RTL Challenge](https://github.com/Dhruv0Upadhyay/100_Days_of_RTL)
