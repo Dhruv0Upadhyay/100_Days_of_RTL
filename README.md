@@ -42,7 +42,7 @@ For each day, there will be a separate folder containing the design and testbenc
 |010|Barrel Shifter for 8-bit data|[Link](/Day10)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7062450160601079808-yNke?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/ZUKK)| 
 |011|Ripple Carry Adder|[Link](/Day11)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7130080664002965505-s_72?utm_source=share&utm_medium=member_desktop)|[PLAY](https://edaplayground.com/x/NTFS)| 
 |012|CLA: Carry Look Ahead Adder|[Link](/Day12)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7130574977300316160-n_fh?utm_source=share&utm_medium=member_desktop)|[PLAY](https://www.edaplayground.com/x/QXa4)|
-|013||[Link](/Day13)|||
+|013|4-Bit: Comparator|[Link](/Day13)|[VIEW](https://www.linkedin.com/posts/dhruv-upadhyay-_100daysofrtl-day-comparator-activity-7131659429409636352-SK42?utm_source=share&utm_medium=member_desktop)|[PLAY](https://edaplayground.com/x/LaJh)|
 |014||[Link](/Day14)||| 
 |015||[Link](/Day15)||| 
 
